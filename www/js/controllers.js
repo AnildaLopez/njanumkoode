@@ -438,20 +438,20 @@ angular.module('app.controllers', [])
          */
 
         $scope.districtList = [
-            {value: "1", label: "1.KASARAGOD"},
-            {value: "2", label: "2.KANNUR"},
-            {value: "3", label: "3.WAYANAD"},
-            {value: "4", label: "4.KOZHIKODE"},
-            {value: "5", label: "5.MALAPPURAM"},
-            {value: "6", label: "6.PALAKKAD"},
-            {value: "7", label: "7.THRISSUR"},
-            {value: "8", label: "8.ERNAKULAM"},
-            {value: "9", label: "9.IDUKKI"},
-            {value: "10", label: "10.KOTTAYAM"},
-            {value: "11", label: "11.ALAPPUZHA"},
-            {value: "12", label: "12.PATHANAMTHITTA"},
-            {value: "13", label: "13.KOLLAM"},
-            {value: "14", label: "14.THIRUVANANTHAPURAM"}
+            {value: "1", label: "1.കാസർഗോഡ്‌ "},
+            {value: "2", label: "2.കണ്ണൂർ"},
+            {value: "3", label: "3.വയനാട്"},
+            {value: "4", label: "4.കോഴിക്കോട്"},
+            {value: "5", label: "5.മലപ്പുറം"},
+            {value: "6", label: "6.പാലക്കാട്‌"},
+            {value: "7", label: "7.തൃശൂർ"},
+            {value: "8", label: "8.എറണാകുളം"},
+            {value: "9", label: "9.ഇടുക്കി"},
+            {value: "10", label: "10.കോട്ടയം"},
+            {value: "11", label: "11.ആലപ്പുഴ"},
+            {value: "12", label: "12.പത്തനംതിട്ട"},
+            {value: "13", label: "13.കൊല്ലം"},
+            {value: "14", label: "14.തിരുവനന്തപുരം"}
         ];
 
         $scope.assemblyList = [];
