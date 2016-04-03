@@ -458,44 +458,44 @@ angular.module('app.controllers', [])
 
         $scope.assembyAllList = {
             1: [
-                {value: "1", label: "1.MANJESHWAR"},
-                {value: "2", label: "2.KASARAGOD"},
-                {value: "3", label: "3.UDMA"},
-                {value: "4", label: "4.KANHANGAD"},
-                {value: "5", label: "5.TRIKARIPUR"}
+                {value: "1", label: "1.മന്ജെഷ്വർ"},
+                {value: "2", label: "2.കാസർഗോഡ്‌"},
+                {value: "3", label: "3.ഉദ്മ "},
+                {value: "4", label: "4.കൻഹൻഗാദ്"},
+                {value: "5", label: "5.തൃകരിപുർ"}
             ],
             2: [
-                {value: "6", label: "6.PAYYANNUR"},
-                {value: "7", label: "7.KALLIASSERI"},
-                {value: "8", label: "8.TALIPARAMBA"},
-                {value: "9", label: "9.IRIKKUR"},
-                {value: "10", label: "10.AZHIKODE"},
-                {value: "11", label: "11.KANNUR"},
-                {value: "12", label: "12.DHARMADAM"},
-                {value: "13", label: "13.THALASSERY"},
-                {value: "14", label: "14.KUTHUPARAMBA"},
-                {value: "15", label: "15.MATTANNUR"},
-                {value: "16", label: "16.PERAVOOR"}
+                {value: "6", label: "6.പയ്യന്നൂർ"},
+                {value: "7", label: "7.കല്ലയാശ്ശേരി "},
+                {value: "8", label: "8.തളിപ്പറമ്പ്"},
+                {value: "9", label: "9.ഇരിക്കൂർ "},
+                {value: "10", label: "10.അഴികൊട് "},
+                {value: "11", label: "11.കണ്ണൂർ "},
+                {value: "12", label: "12.ധർമദം"},
+                {value: "13", label: "13.തലശേശ്രി"},
+                {value: "14", label: "14.കുത്തുപറമ്ബ്"},
+                {value: "15", label: "15.മട്ടന്നൂർ"},
+                {value: "16", label: "16.പേരാവൂർ"}
             ],
             3: [
-                {value: "17", label: "17.MANANTHAVADY"},
-                {value: "18", label: "18.SULTHANBATHERY"},
-                {value: "19", label: "19.KALPETTA"}
+                {value: "17", label: "17.മാനന്തവാടി"},
+                {value: "18", label: "18.സുല്താന്ബത്തെരി"},
+                {value: "19", label: "19.കല്പറ്റ"}
             ],
             4: [
-                {value: "20", label: "20.VADAKARA"},
-                {value: "21", label: "21.KUTTIADI"},
-                {value: "22", label: "22.NADAPURAM"},
-                {value: "23", label: "23.QUILANDY"},
-                {value: "24", label: "24.PERAMBRA"},
-                {value: "25", label: "25.BALUSSERI"},
-                {value: "26", label: "26.ELATHUR"},
-                {value: "27", label: "27.KOZHIKODE NORTH"},
-                {value: "28", label: "28.KOZHIKODE SOUTH"},
-                {value: "29", label: "29.BEYPORE"},
-                {value: "30", label: "30.KUNNAMANGALAM"},
-                {value: "31", label: "31.KODUVALLY"},
-                {value: "32", label: "32.THIRUVAMBADY"}
+                {value: "20", label: "20.വടകര"},
+                {value: "21", label: "21.കുറ്റ്യാടി"},
+                {value: "22", label: "22.നാദപുരം"},
+                {value: "23", label: "23.കൊയിലാണ്ടി"},
+                {value: "24", label: "24.പേരംബ്ര"},
+                {value: "25", label: "25.ബാലുശ്ശേരി"},
+                {value: "26", label: "26.എലതുർ"},
+                {value: "27", label: "27.കോഴികോട് നോർത്ത്"},
+                {value: "28", label: "28.കോഴികോട് സൌത്ത്"},
+                {value: "29", label: "29.ബേപ്പൂര്"},
+                {value: "30", label: "30.കുന്നമംഗലം"},
+                {value: "31", label: "31.കൊടുവാല്ലി"},
+                {value: "32", label: "32.തിരുവംബാടി"}
             ],
             5: [
                 {value: "33", label: "33.KONDOTTY"},
